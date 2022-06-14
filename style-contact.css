@@ -1,0 +1,58 @@
+body{
+    margin: auto;
+}
+
+.phone{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    margin-top: 63px;
+    background-color: rgb(126, 9, 9);
+    height: 100px;
+    
+}
+.gmail{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+
+    margin-top: -1px;
+    background-color:rgb(151, 13, 11);
+    height: 100px;
+}
+
+.instagram{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    margin-top: 0px;
+    background-color:rgb(232, 58, 20);
+    height: 100px;
+}
+
+.twitter{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    margin-top: 0px;
+    background-color:rgb(217, 206, 63);
+    height: 100px;
+}
+.CONTACTS{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 1px;
+}
+.home{
+    color: black;
+    margin-left: 580px;
+    font-size: x-large;
+   
+}
